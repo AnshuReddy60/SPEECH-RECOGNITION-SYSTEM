@@ -71,3 +71,7 @@ To run this app locally:
 ### **Conclusion**
 
 This **Speech-to-Text Transcription Tool** leverages advanced AI technologies to provide a simple, effective, and user-friendly solution for transcribing speech into text. Whether you need to transcribe interviews, lectures, podcasts, or meetings, this tool provides fast and accurate results. It is an excellent example of how deep learning models like Wav2Vec2 can be applied in practical applications to solve real-world problems.
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d4f8f3b2-f6f0-4717-85a8-8514eb89b2a4)
